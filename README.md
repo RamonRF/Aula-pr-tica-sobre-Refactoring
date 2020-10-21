@@ -1,2 +1,2 @@
-# Aula-pr-tica-sobre-Refactoring
+# Aula-pratica-sobre-Refactoring
 Roteiro sobre refactoring
